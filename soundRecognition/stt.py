@@ -3,7 +3,7 @@ import urllib3
 import json
 import base64
 openApiURL="http://aiopen.etri.re.kr:8000/WiseASR/Recognition"
-accessKey="6e5ae159-2c10-4383-b8dc-a2c62f33afec"
+accessKey="******************************"
 audioFilePath="./out.wav"
 languageCode="korean"
 
